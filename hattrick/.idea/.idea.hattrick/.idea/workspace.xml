@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f16626a5-54df-4702-b494-a707b3a8a183" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="945635483">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1545" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1545" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Survival Shooter/Assets/_Complete-Game/Scripts/Enemy/EnemyAttack.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Survival Shooter/Assets/_Complete-Game/Scripts/Enemy/EnemyHealth.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Survival Shooter/Assets/_Complete-Game/Scripts/Enemy/EnemyMovement.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Hat Trick - The Catch Game/Scripts/HT_Explode.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1484262629000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1484262629000" expanded="true" signature="86:486" ph="{...}" />
+                <marker date="1484262629000" expanded="true" signature="203:484" ph="{...}" />
+                <marker date="1484262629000" expanded="true" signature="246:481" ph="{...}" />
+                <marker date="1484262629000" expanded="true" signature="351:452" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Hat Trick - The Catch Game/Scripts/HT_GameController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="31" />
+              <folding>
+                <marker date="1484262638000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1484262638000" expanded="true" signature="93:1843" ph="{...}" />
+                <marker date="1484262638000" expanded="true" signature="468:831" ph="{...}" />
+                <marker date="1484262638000" expanded="true" signature="489:516" ph="{...}" />
+                <marker date="1484262638000" expanded="true" signature="854:1023" ph="{...}" />
+                <marker date="1484262638000" expanded="true" signature="872:1020" ph="{...}" />
+                <marker date="1484262638000" expanded="true" signature="926:950" ph="{...}" />
+                <marker date="1484262638000" expanded="true" signature="1051:1189" ph="{...}" />
+                <marker date="1484262638000" expanded="true" signature="1220:1841" ph="{...}" />
+                <marker date="1484262638000" expanded="true" signature="1306:1687" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Hat Trick - The Catch Game/Scripts/HT_HatController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="686">
+              <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
+              <folding>
+                <marker date="1554206304771" expanded="false" signature="6:44" ph="..." />
+                <marker date="1554206304771" expanded="true" signature="92:2316" ph="{...}" />
+                <marker date="1554206304771" expanded="true" signature="873:1222" ph="{...}" />
+                <marker date="1554206304771" expanded="true" signature="899:926" ph="{...}" />
+                <marker date="1554206304771" expanded="true" signature="1293:1817" ph="{...}" />
+                <marker date="1554206304771" expanded="true" signature="1312:1676" ph="{...}" />
+                <marker date="1554206304771" expanded="true" signature="1859:1906" ph="{...}" />
+                <marker date="1554206304771" expanded="true" signature="1933:2314" ph="{...}" />
+                <marker date="1554206304771" expanded="true" signature="1980:2047" ph="{...}" />
+                <marker date="1554206304771" expanded="true" signature="2058:2267" ph="{...}" />
+                <marker date="1554206304771" expanded="true" signature="2150:2202" ph="{...}" />
+                <marker date="1554206304771" expanded="true" signature="2210:2263" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spawnpo</find>
+      <find>balls</find>
+      <find>off</find>
+      <find>_bomb</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Hat Trick - The Catch Game/Scripts/HT_Explode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Survival Shooter/Assets/_Complete-Game/Scripts/Enemy/EnemyHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Survival Shooter/Assets/_Complete-Game/Scripts/Enemy/EnemyMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hat Trick - The Catch Game/Scripts/HT_HatController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Survival Shooter/Assets/_Complete-Game/Scripts/Enemy/EnemyAttack.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hat Trick - The Catch Game/Scripts/HT_GameController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Hat Trick - The Catch Game/Scripts/HT_HatController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="835" />
+    <option name="width" value="1095" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f16626a5-54df-4702-b494-a707b3a8a183" name="Default Changelist" comment="" />
+      <created>1551954358344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551954358344</updated>
+      <workItem from="1551954365496" duration="3478000" />
+      <workItem from="1552129241540" duration="1009000" />
+      <workItem from="1552130907473" duration="286000" />
+      <workItem from="1552490070734" duration="631000" />
+      <workItem from="1552653421256" duration="593000" />
+      <workItem from="1552654139357" duration="2244000" />
+      <workItem from="1552678974616" duration="1064000" />
+      <workItem from="1553162514465" duration="1886000" />
+      <workItem from="1554203740044" duration="1182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12373000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Survival Shooter/Assets/_Complete-Game/Scripts/Enemy/EnemyAttack.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Survival Shooter/Assets/_Complete-Game/Scripts/Enemy/EnemyHealth.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Survival Shooter/Assets/_Complete-Game/Scripts/Enemy/EnemyMovement.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hat Trick - The Catch Game/Scripts/HT_Explode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1484262629000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1484262629000" expanded="true" signature="86:486" ph="{...}" />
+            <marker date="1484262629000" expanded="true" signature="203:484" ph="{...}" />
+            <marker date="1484262629000" expanded="true" signature="246:481" ph="{...}" />
+            <marker date="1484262629000" expanded="true" signature="351:452" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hat Trick - The Catch Game/Scripts/HT_GameController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <marker date="1484262638000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1484262638000" expanded="true" signature="93:1843" ph="{...}" />
+            <marker date="1484262638000" expanded="true" signature="468:831" ph="{...}" />
+            <marker date="1484262638000" expanded="true" signature="489:516" ph="{...}" />
+            <marker date="1484262638000" expanded="true" signature="854:1023" ph="{...}" />
+            <marker date="1484262638000" expanded="true" signature="872:1020" ph="{...}" />
+            <marker date="1484262638000" expanded="true" signature="926:950" ph="{...}" />
+            <marker date="1484262638000" expanded="true" signature="1051:1189" ph="{...}" />
+            <marker date="1484262638000" expanded="true" signature="1220:1841" ph="{...}" />
+            <marker date="1484262638000" expanded="true" signature="1306:1687" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hat Trick - The Catch Game/Scripts/HT_HatController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
+          <folding>
+            <marker date="1554206304771" expanded="false" signature="6:44" ph="..." />
+            <marker date="1554206304771" expanded="true" signature="92:2316" ph="{...}" />
+            <marker date="1554206304771" expanded="true" signature="873:1222" ph="{...}" />
+            <marker date="1554206304771" expanded="true" signature="899:926" ph="{...}" />
+            <marker date="1554206304771" expanded="true" signature="1293:1817" ph="{...}" />
+            <marker date="1554206304771" expanded="true" signature="1312:1676" ph="{...}" />
+            <marker date="1554206304771" expanded="true" signature="1859:1906" ph="{...}" />
+            <marker date="1554206304771" expanded="true" signature="1933:2314" ph="{...}" />
+            <marker date="1554206304771" expanded="true" signature="1980:2047" ph="{...}" />
+            <marker date="1554206304771" expanded="true" signature="2058:2267" ph="{...}" />
+            <marker date="1554206304771" expanded="true" signature="2150:2202" ph="{...}" />
+            <marker date="1554206304771" expanded="true" signature="2210:2263" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
